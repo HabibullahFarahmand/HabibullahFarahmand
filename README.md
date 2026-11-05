@@ -45,17 +45,18 @@ My work and interests bring together Artificial Intelligence, Data Science, educ
 
 ---
 
+
 ## 🔭 Current Focus
 
-- Artificial Intelligence and Machine Learning
-- Generative AI, Large Language Models, and RAG applications
-- Multilingual AI solutions for Dari, Pashto, and English
-- Educational technology and digital learning platforms
-- School ERP and management information systems
-- Python automation and data-driven workflows
-- Practical software solutions for organizations and communities
+I am continuously developing my knowledge and practical experience in AI, data science, and digital technology, with a focus on building useful solutions for real-world challenges.
 
----
+- 🤖 **Generative AI & LLM Applications:** Exploring LLM-powered applications, prompt engineering, LangChain, and Retrieval-Augmented Generation (RAG).
+- 🧠 **Machine Learning & Data Science:** Developing practical skills in data analysis, predictive modelling, data processing, and machine learning.
+- 🌐 **Multilingual Educational AI:** Contributing to AI-powered educational solutions supporting Dari, Pashto, and English.
+- 🏫 **School Management Systems:** Working on digital solutions for school administration, academic management, and organizational workflows through Shams Technology Team.
+- 🐍 **Python & Automation:** Building practical automation tools and improving data management and reporting workflows.
+- 📚 **Academic Development:** Pursuing my MCA studies at IGNOU while strengthening my computer science and software development foundations.
+
 
 ## 🧰 Technology Stack
 

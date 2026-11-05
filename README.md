@@ -36,7 +36,7 @@ I am a Computer Science graduate, technology professional, and entrepreneur inte
 
 My work and interests bring together Artificial Intelligence, Data Science, educational technology, automation, and digital systems. I enjoy applying technology to real-world challenges, particularly in education and organizational workflows.
 
-- 💼 **Co-Founder & COO** at Shams Technology Team
+- 💼 **Founder & COO** at Shams Technology Team
 - 💻 **Education Technology Officer** at Lapis Group
 - 🎓 **MCA Student** at Indira Gandhi National Open University (IGNOU), India
 - 🤖 Interested in AI, Machine Learning, Generative AI, and intelligent applications
